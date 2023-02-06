@@ -8,7 +8,7 @@
 
 ## Решение:
 > Подключался к SSH.
-> На macOS через visualBox все работет идеально 
+> На macOS через visualBox все работает идеально 
 ```
 The default interactive shell is now zsh.
 To update your account to use zsh, please run `chsh -s /bin/zsh`.
